@@ -1,4 +1,4 @@
-#CalorieBuddy - Calorie Deficit Recipes Webapp
+# CalorieBuddy - Calorie Deficit Recipes Webapp
 
 [Here is the website](https://calorie-deficit.netlify.app/)
 
